@@ -1,0 +1,13 @@
+# Ignore Autotools generated files
+/aclocal.m4
+/autom4te.cache
+/config.h.in
+/configure
+/Makefile.in
+/src/Makefile.in
+# Ignore build artifacts
+/config.h
+/config.log
+/config.status
+/src/hello-app
+/src/*.o
